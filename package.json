@@ -1,0 +1,22 @@
+{
+  "name": "radial-menu-component-demo",
+  "description": " demo for radial menu component ",
+  "version": "1.0.0",
+  "author": "Ivan Serenko <ivan.serenko@nure.ua>",
+  "scripts": {
+    "build:project": "vue-cli-service build",
+    "run-vue-dev": "vue-cli-service serve --open"
+  },
+  "dependencies": {
+    "custom-radial-menu": "^1.0.0",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.0.0",
+    "@vue/cli-service-global": "^4.0.5",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.2"
+  }
+}
